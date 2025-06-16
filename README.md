@@ -40,21 +40,35 @@ The notebook answers several business questions using visualizations:
 
  Q1. What is the distribution of listing prices?
 - A histogram (with KDE) shows the spread of prices, indicating there is no strong concentration in any specific price range.
+- ![air bnb1](https://github.com/user-attachments/assets/8125d059-1308-4d25-b237-1432b8fce28a)
 
 Q2. How are different room types distributed?
 - A countplot visualizes the distribution of room types (e.g., entire home, private room).
+- ![airbnb 2](https://github.com/user-attachments/assets/e822c6c5-268c-483d-9869-c324e984824d)
 
  Q3. How are listings distributed across different neighborhoods?
 - A countplot shows the number of listings in each neighborhood group.
+- ![airbnb3](https://github.com/user-attachments/assets/3e060d96-ddd4-43a5-a88e-5174e086849d)
 
 Q4. What is the relationship between price and room type?
 - A boxplot displays the price range for each room type, allowing comparison across categories.
+- ![airbnb4](https://github.com/user-attachments/assets/f9f8c00b-2225-40a9-af8c-2d3f8330b505)
+
 
 Q5. How has the number of reviews changed over time?
 - A line plot tracks the number of reviews per month, showing trends over time.
+- ![air bnb5](https://github.com/user-attachments/assets/3f4795d0-b209-45b8-ab9b-a4c64cbdfba8)
+
 
 5. Descriptive Statistics
 The notebook uses df.describe() to provide summary statistics (mean, median, etc.) for numerical columns.
 
 Project Purpose and Use
 The primary goal of this project is to demonstrate data cleaning, exploratory data analysis (EDA), and visualization techniques using real-world Airbnb data. Such a workflow is typical in data science projects where the aim is to understand the data, identify patterns, and extract insights that could be valuable for business decisions or further modeling.
+
+![air bnb1](https://github.com/user-attachments/assets/8125d059-1308-4d25-b237-1432b8fce28a)
+![airbnb 2](https://github.com/user-attachments/assets/e822c6c5-268c-483d-9869-c324e984824d)
+![airbnb3](https://github.com/user-attachments/assets/3e060d96-ddd4-43a5-a88e-5174e086849d)
+![airbnb4](https://github.com/user-attachments/assets/f9f8c00b-2225-40a9-af8c-2d3f8330b505)
+![air bnb5](https://github.com/user-attachments/assets/a415acb4-a24a-4558-bbf6-ae6f25866361)
+
