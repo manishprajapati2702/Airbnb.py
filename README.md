@@ -63,9 +63,13 @@ Q5. How has the number of reviews changed over time?
 5. Descriptive Statistics
 The notebook uses df.describe() to provide summary statistics (mean, median, etc.) for numerical columns.
 
-Project Purpose and Use
-The primary goal of this project is to demonstrate data cleaning, exploratory data analysis (EDA), and visualization techniques using real-world Airbnb data. Such a workflow is typical in data science projects where the aim is to understand the data, identify patterns, and extract insights that could be valuable for business decisions or further modeling.
+Conclusion :
+Project Purpose and Use:
+The primary goal of this project is to demonstrate data cleaning, exploratory data analysis (EDA), and visualization techniques using real-world Airbnb data. 
+Such a workflow is typical in data science projects where the aim is to understand the data, identify patterns, and extract insights that could be valuable for business decisions or further modeling.
 
+
+photos:
 ![air bnb1](https://github.com/user-attachments/assets/8125d059-1308-4d25-b237-1432b8fce28a)
 ![airbnb 2](https://github.com/user-attachments/assets/e822c6c5-268c-483d-9869-c324e984824d)
 ![airbnb3](https://github.com/user-attachments/assets/3e060d96-ddd4-43a5-a88e-5174e086849d)
